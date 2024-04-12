@@ -1,0 +1,665 @@
+ZONE,REGION,DISTRICT,SCHOOL NAME,LATITUDE,LONGITUDE,BOYS,GIRLS,MALE TEACHERS,FEMALE TEACHERS,CLASS
+North-West,Awdal,Baki,Ruqy,10,43.43222,49,6,4,0,4
+North-West,Awdal,Baki,Sh.Mahamud Ahmed,10.26689,43.48869,87,18,4,0,4
+North-West,Awdal,Borama,Shadan Sugal,10,43,71,9,3,0,4
+North-West,Awdal,Borama,Mahadka Sh Ali,10,43,186,107,7,0,8
+North-West,Awdal,Borama,Halimaleh,10,43,44,20,2,0,2
+North-West,Awdal,Borama,Sh Xusien Abraar,9,43,51,40,5,0,3
+North-West,Awdal,Borama,Alaale,9.92893,43.18335,45,30,1,1,2
+North-West,Awdal,Borama,Al Nuur,10,43.2293,173,95,6,0,8
+North-West,Awdal,Borama,Omar Binu Khatab,9.92893,43.18335,144,51,4,0,7
+North-West,Awdal,Borama,Kalmo,10,43.18335,71,42,1,1,3
+North-West,Awdal,Borama,ILays,9.92893,43.18335,92,43,4,2,3
+North-West,Awdal,Borama,Sa'cadin,10,43.18335,31,19,4,0,2
+North-West,Awdal,Borama,Borama School for the deaf,10,43.18335,152,75,15,2,12
+North-West,Awdal,Borama,Tuli lower,10,43.31222,63,4,3,0,3
+North-West,Awdal,Borama,Goraya Awl,10,43.22778,56,21,3,0,3
+North-West,Awdal,Borama,Qunujeed,10.09167,43.00917,127,37,6,0,7
+North-West,Awdal,Borama,Sh.Ali Jawhar,9.92893,43.2293,209,88,4,1,5
+North-West,Awdal,Borama,X.Tako lower,10,43.18335,350,184,7,3,8
+North-West,Awdal,Borama,Sh.Ahmed,10,43.2275,326,197,7,2,8
+North-West,Awdal,Borama,Sheed Dheer,10,43.18335,155,57,4,1,4
+North-West,Awdal,Borama,Al -Aqsa,9.92893,43.18335,572,270,20,0,16
+North-West,Awdal,Borama,Ubaya Binu Kacba,9.92893,43.2275,744,471,28,0,23
+North-West,Awdal,Borama,Sh.Osman,10,43.18335,183,52,7,0,5
+North-West,Awdal,Borama,Aloog,10,43.18335,870,496,21,4,21
+North-West,Awdal,Borama,X.Tako upper,10,43.18335,465,160,14,1,9
+North-West,Awdal,Borama,Sh.Abdirahman,10,43.18335,1018,477,22,2,20
+North-West,Awdal,Borama,Child/Adult Education,10,43.2275,82,29,2,1,5
+North-West,Awdal,Borama,Maraley,10.03278,43.04,53,8,3,0,2
+North-West,Awdal,Borama,Abu-Qays,10,43.18335,130,16,7,0,5
+North-West,Awdal,Borama,Sh.Mooge/Qalooc,10,43.29028,126,29,5,0,6
+North-West,Awdal,Borama,Idan,10,43.29028,71,8,4,0,4
+North-West,Awdal,Borama,Boon,10.19391,43.08799,21,16,2,0,2
+North-West,Awdal,Borama,Sh.Yususf Lower,10,43.18335,56,12,3,0,2
+North-West,Awdal,Dila,Jeed-Diqsi,10.55247,44.11734,37,0,2,0,3
+North-West,Awdal,Dila,Jara-Horatu,10,43.3225,60,8,5,0,4
+North-West,Awdal,Dila,Dilla,9.81639,43.31222,189,36,7,0,7
+North-West,Awdal,Lughaye,Garbo Dadar,10.23733,43.63499,105,24,5,0,5
+North-West,Awdal,Lughaye,Gar Gaara,10.31193,43.80758,29,6,2,0,3
+North-West,Awdal,Lughaye,Geerisa,10.6099,43.42935,44,13,4,0,2
+North-West,Awdal,Lughaye,Fard laguxidh,10.40917,43.44972,31,9,2,0,3
+North-West,Awdal,Lughaye,Lughaya,10.68326,43.94053,64,28,4,0,4
+North-West,Awdal,Zeilac,A/kadir,10.51028,42.89198,56,26,3,0,5
+North-West,Awdal,Zeilac,Lawyado,11.45917,43.25945,83,21,2,0,3
+North-West,Awdal,Zeilac,Tokhoshi,11,43,36,5,2,0,2
+North-West,Awdal,Zeilac,Fiqi Adan,10.37194,43.19222,41,9,3,0,3
+North-West,Awdal,Zeilac,Zeila,11.35455,43.47282,38,17,2,0,5
+North-West,Awdal,Zeilac,Hariirad,10.32472,42.83667,50,15,6,0,3
+North-West,Hargeisa,Adadley,Adadley,9.76639,44.69325,92,24,4,0,5
+North-West,Hargeisa,Allaybadey,Alley Badey,9.38528,43.52306,128,15,6,0,8
+North-West,Hargeisa,B/Gubadle,Sayle,9.17361,44.17028,22,1,2,0,4
+North-West,Hargeisa,B/Gubadle,H/Dh/B/Gubadle,9,43.99778,148,43,6,1,8
+North-West,Hargeisa,B/Gubadle,Dirfacle,9.40917,44.03353,142,44,2,0,8
+North-West,Hargeisa,Darasalaam,Maluug,9.75199,44.29095,31,23,2,0,3
+North-West,Hargeisa,Darasalaam,B/Khadar,9.66194,44.02874,49,16,2,0,3
+North-West,Hargeisa,Darasalaam,G/Deeble,10,43.97273,33,12,2,0,3
+North-West,Hargeisa,Darasalaam,Dhagax W,9.84139,44.01361,53,4,2,0,3
+North-West,Hargeisa,F/Weyne,F/Weyne,9.34333,43.67083,49,19,2,0,4
+North-West,Hargeisa,F/Weyne,Garabis,9.43965,43.95469,43,13,2,0,6
+North-West,Hargeisa,F/Weyne,Sh.Moolde,9.29722,43.85472,34,5,2,0,2
+North-West,Hargeisa,F/Weyne,Gadh yogol,9.49273,43.86041,73,0,4,0,5
+North-West,Hargeisa,Gabiley,Lafta/Boqor,9.61571,43.55853,29,3,2,0,1
+North-West,Hargeisa,Gabiley,Hoose Taysa.,9.57182,44,46,9,2,0,2
+North-West,Hargeisa,Gabiley,Da'ud Dahir,10,43,59,4,2,0,2
+North-West,Hargeisa,Gabiley,ILma daddo,9.56833,43.47,53,4,2,0,2
+North-West,Hargeisa,Gabiley,Gogol -Wanaag,9.71858,43.78261,77,15,3,0,4
+North-West,Hargeisa,Gabiley,Tog Wajaale Upper,10,43.33583,78,19,6,0,4
+North-West,Hargeisa,Gabiley,L/Tiinka,10,43.64222,63,7,3,0,4
+North-West,Hargeisa,Gabiley,Galooley,9.70667,43.40295,60,8,5,1,4
+North-West,Hargeisa,Gabiley,H/Dhexe Agabar,9.92485,43.91871,32,7,2,2,3
+North-West,Hargeisa,Gabiley,Boodhlay,9.5847,43.59448,32,0,2,0,2
+North-West,Hargeisa,Gabiley,Hoose Mahdi Ali(Togwajaale),9.59972,43.33583,207,55,4,2,6
+North-West,Hargeisa,Gabiley,Hoose Arabsiyo,9.67695,43.75967,312,121,6,2,8
+North-West,Hargeisa,Gabiley,New Gabileh,9.70231,43.6255,420,105,9,0,9
+North-West,Hargeisa,Gabiley,Al-Hoda,9.70231,43.62551,22,18,2,0,1
+North-West,Hargeisa,Gabiley,Shamsu-Diiri,9.67695,43.75967,74,83,5,1,6
+North-West,Hargeisa,Gabiley,Dhexe Arabsiyo,10,45.75967,221,63,6,0,6
+North-West,Hargeisa,Gabiley,Geid-Balad,9.70231,43.62551,30,0,2,0,2
+North-West,Hargeisa,Gabiley,Haji Aden Ramaleh,9.59972,43.33583,100,55,2,1,3
+North-West,Hargeisa,Gabiley,H/Dh  Kala Baydh,9.68167,43.47667,192,37,8,0,8
+North-West,Hargeisa,Gabiley,Machd Ibnu Abdi Asis,9.70231,43.62551,87,52,2,1,4
+North-West,Hargeisa,Gabiley,Sh.Muhumed Warsama,9.70231,43.62551,1255,521,21,4,30
+North-West,Hargeisa,Gabiley,Al Cirfaan,10,43.75967,130,90,6,0,6
+North-West,Hargeisa,Gabiley,Imam -Shafie,9.7237,43.62551,236,169,10,0,15
+North-West,Hargeisa,Gabiley,H/Dhexe Ijara,10,43.62801,100,5,6,0,5
+North-West,Hargeisa,Gabiley,Caro-Guduudan,9.61981,43.68183,44,11,3,0,3
+North-West,Hargeisa,Gabiley,Eil-Bardaleh,9.82444,43.475,42,3,2,0,2
+North-West,Hargeisa,Gabiley,Hawa,9.70231,43.62551,0,56,0,2,2
+North-West,Hargeisa,Gabiley,Sh/ Moh'd Warsame,9.70231,43.62551,40,50,4,0,2
+North-West,Hargeisa,Gabiley,Madarad Shamisu Diio   2,9.70231,43.62551,45,39,2,0,2
+North-West,Hargeisa,Gabiley,Umal Al Qura,10,43.62551,105,80,3,0,4
+North-West,Hargeisa,Gabiley,The school of Wisdom,9.70231,43.62551,126,82,3,0,4
+North-West,Hargeisa,Hargeisa,M.Mogeh,10,44.06678,391,162,8,3,11
+North-West,Hargeisa,Hargeisa,Ali Jama,10,44.06678,575,223,9,2,14
+North-West,Hargeisa,Hargeisa,Ma'alin Daud,9.55975,44.06678,734,271,14,3,19
+North-West,Hargeisa,Hargeisa,Fadumo Bihi,9.55975,44.06678,105,56,3,1,4
+North-West,Hargeisa,Hargeisa,Abubakar Al-Sidiiq,9.55975,44.06678,220,142,8,0,8
+North-West,Hargeisa,Hargeisa,Sheikh Jama,9.55975,44.06678,190,165,3,1,6
+North-West,Hargeisa,Hargeisa,Osman Bin Afan  I,9.55975,44.06678,379,277,19,0,18
+North-West,Hargeisa,Hargeisa,Alaamadaha,9.55975,44.06678,144,47,4,1,4
+North-West,Hargeisa,Hargeisa,Abdi Eidan,10,44.06678,131,79,4,2,5
+North-West,Hargeisa,Hargeisa,Dami,9.55975,44.06678,40,30,3,0,2
+North-West,Hargeisa,Hargeisa,Boqol Jire,9.55975,44.06678,28,24,2,0,2
+North-West,Hargeisa,Hargeisa,Isha Boorame,10,44.06678,180,82,5,1,6
+North-West,Hargeisa,Hargeisa,Nural Huda,9.55975,44.06675,138,137,8,7,11
+North-West,Hargeisa,Hargeisa,Al.Najah 2,9.55975,44.06675,259,148,5,0,7
+North-West,Hargeisa,Hargeisa,Xunbo weyne,9.7995,44.28941,45,35,2,0,3
+North-West,Hargeisa,Hargeisa,Dacarbudhug,9.86016,44.52798,71,20,2,0,4
+North-West,Hargeisa,Hargeisa,Darar Weyne,9.71959,44.22306,78,46,4,0,6
+North-West,Hargeisa,Hargeisa,Abaarso,9.60173,43.88048,59,2,2,0,2
+North-West,Hargeisa,Hargeisa,Nairobi,9.55975,44.06678,19,13,4,1,4
+North-West,Hargeisa,Hargeisa,Al-Huda-Al-Islamic,9.55975,44.06678,146,81,10,0,8
+North-West,Hargeisa,Hargeisa,Xaraf,9.54409,43.99299,44,17,4,0,4
+North-West,Hargeisa,Hargeisa,Jaleelo,9.76199,44.29095,68,17,2,0,3
+North-West,Hargeisa,Hargeisa,Alaalad,9.84336,44.33382,28,15,2,0,2
+North-West,Hargeisa,Hargeisa,Al Irshad,9.55975,44.06675,259,265,13,2,15
+North-West,Hargeisa,Hargeisa,Al Ihsan,9.55975,44.06675,371,254,18,0,15
+North-West,Hargeisa,Hargeisa,Sh/Bashiir,9.55975,44.06675,1132,597,22,4,26
+North-West,Hargeisa,Hargeisa,A/Dhagax,9.55975,44.06675,1060,417,19,3,21
+North-West,Hargeisa,Hargeisa,31st May,9.55975,44.06675,883,332,16,3,20
+North-West,Hargeisa,Hargeisa,Malko Durduro,9.55975,44.06678,136,89,5,0,5
+North-West,Hargeisa,Hargeisa,Al Bahrain L/U,9.55975,44.06678,632,372,16,4,21
+North-West,Hargeisa,Hargeisa,Hawadle,9.55975,44.06678,280,178,11,0,14
+North-West,Hargeisa,Hargeisa,A/llahi Binu Mas'ud,9.55975,44.06675,411,349,10,0,14
+North-West,Hargeisa,Hargeisa,Al Qudus,9.55975,44.06675,437,331,18,0,13
+North-West,Hargeisa,Hargeisa,Salmaan Al Faaris,9.55975,44.06675,331,247,10,0,16
+North-West,Hargeisa,Hargeisa,Al Baraka,9.55975,44.06675,346,297,18,10,21
+North-West,Hargeisa,Hargeisa,17-May,9.55975,44.06675,177,85,9,0,8
+North-West,Hargeisa,Hargeisa,Imamu Muslim (1),9.55975,44.06678,89,52,5,0,5
+North-West,Hargeisa,Hargeisa,Al -Najah,9.55975,44.06678,335,185,12,0,8
+North-West,Hargeisa,Hargeisa,Future,9.55975,44.06678,73,57,7,1,5
+North-West,Hargeisa,Hargeisa,Al Iman,9.55975,44.06678,69,40,3,0,3
+North-West,Hargeisa,Hargeisa,Q/Dheer,9.55975,44.06678,1301,550,18,7,29
+North-West,Hargeisa,Hargeisa,Ahmed Gurey,9.55975,44.06678,731,311,15,3,20
+North-West,Hargeisa,Hargeisa,Omar Binu Khadab,9.55975,44.06675,344,252,15,0,14
+North-West,Hargeisa,Hargeisa,Guryo Samo L/U,9.55975,44.06678,896,327,10,6,19
+North-West,Hargeisa,Hargeisa,Imamu Shaafi'i L/U,9.55975,44.06678,92,70,5,1,6
+North-West,Hargeisa,Hargeisa,Bio Dai,9.55975,44.06675,979,468,14,5,19
+North-West,Hargeisa,Hargeisa,Sh/Nur,9.55975,44.06675,592,225,10,4,15
+North-West,Hargeisa,Hargeisa,Sh Yusuf,9.55975,44.06675,654,255,10,2,16
+North-West,Hargeisa,Hargeisa,Al Nur,9.55975,44.06675,178,147,4,3,8
+North-West,Hargeisa,Hargeisa,Al Furqan,9.55975,44.06675,557,577,30,0,24
+North-West,Hargeisa,K/Buur,Imam -Muslim,9.55975,44.06675,370,323,21,0,20
+North-West,Hargeisa,Salahley,Salahley Boarding,9.02556,44.20639,281,53,9,0,9
+North-West,Sahil,Berbera,Imam Shafie,10,45,220,50,6,0,9
+North-West,Sahil,Berbera,Omer-binu-khidab,10,45,613,248,10,2,13
+North-West,Sahil,Berbera,Ajab,10,45,304,123,9,0,8
+North-West,Sahil,Berbera,Sahil,10,45,545,134,12,1,12
+North-West,Sahil,Hagal,Laas-Ciidleh,10.17,45,54,36,2,0,2
+North-West,Sahil,Mandera,Deri-Godleh,10.16635,44.84912,12,9,1,0,3
+North-West,Sanaag,Darar Weyne,Dararweyne,10,45.52736,48,38,6,0,5
+North-West,Sanaag,El-Afwein,C/Afweyn Primary & Intermediate,10,47.21678,295,165,15,0,11
+North-West,Sanaag,Erigavo,Jiidali,10.70059,47.66663,53,12,4,0,5
+North-West,Sanaag,Erigavo,Surad,10.37224,47.21503,390,156,8,2,12
+North-West,Sanaag,Erigavo,Lafole,10.3648,47.0221,826,501,8,6,20
+North-West,Sanaag,Erigavo,Marawade,10.4227,47,34,14,2,0,4
+North-West,Sanaag,Erigavo,Kulmiye,10.45221,47.35101,25,7,2,0,3
+North-West,Sanaag,Erigavo,G/Adag,9,45.86733,133,114,7,1,8
+North-West,Sanaag,Erigavo,Xabow,10.38585,47.30526,39,7,2,0,1
+North-West,Sanaag,Erigavo,Xamas,10.7836,47.52887,70,50,4,0,4
+North-West,Sanaag,Erigavo,ILad-Garood,9.93027,47.22167,49,14,3,0,2
+North-West,Sanaag,Erigavo,G/Biyo Cas,10.59003,46.95408,94,80,3,0,3
+North-West,Sanaag,Erigavo,Goob,10.34222,47,30,9,3,0,2
+North-West,Sanaag,Erigavo,Yufle,10.22122,47.11575,73,53,6,0,7
+North-West,Sanaag,Erigavo,Dallo Primary & Intermediate,10.3719,47.02154,586,271,12,4,17
+North-West,Sanaag,Gar-Adag,Figab,9.6329,47.0324,39,36,3,0,4
+North-West,Sanaag,Maydh,Xiis,10.8969,46.91845,25,9,2,0,2
+North-West,Sanaag,,Maydh,10.98149,47.09496,38,16,3,1,3
+North-West,Togdheer,Baladiq,Adan Suleyman,8.37342,45.90811,93,26,5,0,5
+North-West,Togdheer,Baladiq,,8.37342,45.90811,265,90,13,1,17
+North-West,Togdheer,Buhodle,Qorlugud,8.55228,46.22359,77,37,6,1,5
+North-West,Togdheer,Buhodle,Balli Alanle,9,46.08188,40,15,2,0,2
+North-West,Togdheer,Buhodle,Abu Bakar Sidiiq,8,46.31713,306,195,12,0,14
+North-West,Togdheer,Buhodle,Horu Fadhi,8.25135,46.31713,39,6,3,0,2
+North-West,Togdheer,Buhodle,Dandan,9,45.92953,32,27,3,0,3
+North-West,Togdheer,Buhodle,Widh-Widh,8,46.70713,126,44,6,1,7
+North-West,Togdheer,Buhodle,Buuhoodle,8.25135,46.31713,357,131,15,3,14
+North-West,Togdheer,Buhodle,Coodanle,8.32779,46.48099,21,20,2,0,2
+North-West,Togdheer,Burao,Mohamoud Ahmed Ali,9.52745,45.53747,375,79,8,2,9
+North-West,Togdheer,Burao,Osman Abdi Ali,10,45.53747,186,50,6,0,5
+North-West,Togdheer,Burao,Kosar,10,45.53747,150,135,6,3,7
+North-West,Togdheer,Burao,Sheekh Ibrahim,10,45.53747,912,516,18,9,30
+North-West,Togdheer,Burao,21-Nov,9.52749,45.53747,582,194,13,3,17
+North-West,Togdheer,Burao,Machad Jamal A/Nasir,9.52749,45.53747,343,166,17,0,17
+North-West,Togdheer,Burao,Al Salama elementary,9.52749,45.53747,46,42,8,1,4
+North-West,Togdheer,Burao,Horn of Africa,10,45.53749,233,115,11,0,10
+North-West,Togdheer,Burao,A/Lahi Ibnu Abas,10,45.53747,311,215,9,0,12
+North-West,Togdheer,Burao,Iftiin,10,45.53747,52,46,3,2,4
+North-West,Togdheer,Burao,Al Furqaan,9.52749,45.53747,148,101,11,0,8
+North-West,Togdheer,Burao,Barako,10,45.53747,159,137,5,1,10
+North-West,Togdheer,Burao,Qoyta,9.68394,45.44188,31,10,1,0,1
+North-West,Togdheer,Burao,Fiqi Ayuub,9.93681,46.0264,28,19,2,0,1
+North-West,Togdheer,Burao,Qulube,9.52749,45.53747,271,107,9,1,9
+North-West,Togdheer,Burao,Sheikh Abdalla Nuri,9.52749,45.53747,555,258,21,0,21
+North-West,Togdheer,Burao,Smart,9.52749,45.53747,136,114,12,1,9
+North-West,Togdheer,Burao,Togder,9.52475,45.53747,628,187,12,3,15
+North-West,Togdheer,Burao,Kal Bare,9.90523,45.57134,84,18,3,0,3
+North-West,Togdheer,Burao,Sh.Yusufal Kowneyn,9.52749,45.53747,464,98,13,0,12
+North-West,Togdheer,Duruqsi,Ali Essa,9,45.50379,56,30,3,1,4
+North-West,Togdheer,Odweine,Harag Wafi,9,45.06171,210,45,8,1,8
+North-West,Togdheer,Odweine,Hara-Sheekh,9,44.75758,48,20,4,0,4
+North-West,Togdheer,Odweine,Daba-Gorayale elementary,8.7511,44.831,35,25,2,0,1
+North-West,Togdheer,Odweine,Eil Xume elementary,9.4014,45.1802,44,12,3,0,2
+North-West,Togdheer,Odweine,Hahi,9,44.96547,52,17,2,1,3
+North-West,Togdheer,Odweine,Gudubi elementary,8.81292,45.13404,36,33,2,0,2
+North-West,Togdheer,Odweine,Beerato,9.35651,45.06751,48,27,4,0,4
+North-West,Togdheer,Odweine,Khatumo,9.66563,45.02832,53,12,4,0,3
+North-West,Togdheer,Odweine,Galolay,9,44.89622,56,13,3,0,3
+North-West,Togdheer,Odweine,Haji Saleh,8.59396,45.23699,86,33,4,0,4
+North-West,Togdheer,Odweine,Gatitaly,10,44.86412,59,6,4,0,3
+North-West,Togdheer,Odweine,Duruqsi,8.51715,45.47139,40,17,4,0,4
+North-West,Togdheer,Qoryaale,Qoryaale,9.07047,45.97054,78,39,3,0,4
+North-West,Togdheer,Qoryaale,Shansha Cade,8.65475,45.95331,151,24,3,0,5
+North-West,Togdheer,Qoryaale,Saleebaan Cabdi Cumar,8.80054,45.89273,60,10,2,0,2
+North-East,Bari,Qandala,Guruur,11.8,50,45,15,5,0,3
+North-East,Bari,Qandala,Buruc,11.47327,49.68235,55,19,5,0,3
+North-East,Bari,Qandala,Dasaan,10.73124,50.58793,80,30,3,1,4
+North-East,Bari,Qandala,Karin Eilgal,11.28839,50,82,40,4,0,4
+North-East,Bari,Qandala,15-May,11,49.87,29,12,2,1,2
+North-East,Bari,Qandala,Ali Fahie Geedi,11.47,50,122,35,5,0,7
+North-East,Bari,Qandala,Musse Jibril Moh e'd,11,50.4,95,45,4,1,5
+North-East,Bari,Qandala,Eilgal,11.37,50,130,56,5,0,6
+North-East,Bari,Qandala,Beeliwacatay,11,50.39,52,28,5,1,5
+North-East,Bari,Qandala,Balidhidin,10.8,50,101,37,4,1,5
+North-East,Bari,Qandala,Hamure,11,50.5,45,33,2,1,2
+North-East,Bari,Qandala,Dhadaar,11,49,51,43,4,0,4
+North-East,Bari,Qandala,Sheebaab,11,49,57,18,4,0,4
+North-East,Bari,Qandala,Turmasale,11,49,99,34,4,2,4
+North-East,Bari,Qandala,Xijijle,10,50,26,22,2,1,2
+North-East,Bari,Qandala,Angei,10,50,24,20,4,0,2
+North-East,Bari,Qandala,Harago,10,50,60,20,4,2,3
+North-East,Bari,Alula,Kulmiye,11.77,51.21,37,21,2,0,2
+North-East,Bari,Alula,Saynwayn,11.7,51.19,41,9,6,0,2
+North-East,Bari,Alula,Murcanyo,11.69,50.45,33,9,5,0,3
+North-East,Bari,Alula,Habbo,11.79,50.52,25,11,5,0,2
+North-East,Bari,Alula,Ceel laas,11.7,51.18,41,5,3,0,3
+North-East,Bari,Alula,Hoogaad,11.53,51.05,108,42,2,0,4
+North-East,Bari,Alula,Bareda,11.8,51,34,12,3,0,2
+North-East,Bari,Alula,Saynyar,11.7,51.2,53,24,5,0,3
+North-East,Bari,Alula,Alula,11.9,50.7,31,16,4,0,2
+North-East,Bari,Alula,Geesaleay,11.7,50.5,26,15,5,0,3
+North-East,Bari,Bargal,Taageer,10.94889,50.9,45,25,3,0,3
+North-East,Bari,Bargal,Baargael,11.28,51.077,77,32,8,0,4
+North-East,Bari,Bender Beyla,Aris,10,51,40,19,2,0,2
+North-East,Bari,Bender Beyla,Qodah,9.645,49.82389,13,21,2,0,2
+North-East,Bari,Bender Beyla,Meygag,10,49.92056,34,16,2,0,2
+North-East,Bari,Bender Beyla,Dhudo & Intermediate,9.0325,50.20712,104,26,4,1,4
+North-East,Bari,Bender Beyla,B/Beyla Elementry,9,50.812,162,81,8,2,7
+North-East,Bari,Bender Beyla,Humbays,9.6,49.89,71,57,3,1,6
+North-East,Bari,Bossaso,Kuin,11.28366,49.18063,75,37,5,0,4
+North-East,Bari,Bossaso,Humuure,11.28,49.18,53,23,2,0,3
+North-East,Bari,Bossaso,Al- Rowda,11.2836,49.18063,193,105,7,3,8
+North-East,Bari,Bossaso,15-May,11.28,49.18063,94,64,4,2,6
+North-East,Bari,Bossaso,Wawa Education Centre.,11,49,97,106,2,7,5
+North-East,Bari,Bossaso,Shafici (Boys Center),11.28366,49.18063,1516,0,28,7,31
+North-East,Bari,Bossaso,El-Dahir,10.6348,49.03747,30,26,4,0,2
+North-East,Bari,Bossaso,Bana,11.28366,49.18063,57,39,6,0,4
+North-East,Bari,Bossaso,Haji Mire,11.28366,49.18063,357,172,19,2,15
+North-East,Bari,Bossaso,Nawawi,11.28366,49.18063,727,353,21,2,24
+North-East,Bari,Bossaso,Kala - Bayr,10.84556,49.25611,50,35,2,1,4
+North-East,Bari,Bossaso,Danwadaag,11.28366,49.18063,94,77,5,2,8
+North-East,Bari,Bossaso,Al-Rashid,11.28366,49.18063,46,29,3,0,3
+North-East,Bari,Bossaso,Tulo-Ajuuran,11.28366,49.18063,60,35,2,2,4
+North-East,Bari,Bossaso,Galgala,11.19,49,196,114,6,2,11
+North-East,Bari,Bossaso,Ganaane,11.28,49,87,43,7,0,3
+North-East,Bari,Bossaso,Hormuud,11.2,49.18,265,110,4,2,10
+North-East,Bari,Bossaso,Sahansaho,11,49,138,101,7,1,6
+North-East,Bari,Bossaso,Ugas Yasin,11,49,171,149,15,2,8
+North-East,Bari,Bossaso,Shafici,11,49.18063,0,708,13,6,15
+North-East,Bari,Bossaso,White Tower,11.28,49.18,314,191,20,10,14
+North-East,Bari,Bossaso,Biyo Kulule,11,49,214,134,11,1,10
+North-East,Bari,Bossaso,Bandar Qasim,11,49,104,40,3,2,4
+North-East,Bari,Bossaso,Lasa - Dawalo,10,49,33,22,4,0,4
+North-East,Bari,Bossaso,Tuur-Jaalle,11,49,46,41,3,1,3
+North-East,Bari,Bossaso,Omar Bin Abdiaziz,11,49,273,170,10,2,9
+North-East,Bari,Bossaso,Lag,11,49,26,6,2,0,4
+North-East,Bari,Bossaso,Halane,11.28366,49.18,88,62,7,1,5
+North-East,Bari,Bossaso,Midnimo,11,49,129,35,6,1,4
+North-East,Bari,Bossaso,Harameyn,11,49,40,35,5,1,4
+North-East,Bari,Bossaso,Najah,11,49,667,272,27,1,18
+North-East,Bari,Bossaso,Dayaxa,11,49,58,48,6,1,4
+North-East,Bari,Bossaso,Nawawi,11,49,1186,739,45,5,36
+North-East,Bari,Bossaso,Shabeele,11,49,100,50,5,1,5
+North-East,Bari,Gardo,Jidad,9.4,49.58,26,20,1,1,4
+North-East,Bari,Gardo,Libow,9.14,49.18,13,18,2,0,1
+North-East,Bari,Gardo,Hida,9.95,49.053,76,58,4,0,7
+North-East,Bari,Gardo,Lower - Anbar,9.74,49.55,24,15,2,1,2
+North-East,Bari,Gardo,Libah-har.,9.48,49.396,37,17,2,0,2
+North-East,Bari,Gardo,Sherbi,9.86306,49.09063,58,43,5,0,5
+North-East,Bari,Gardo,Al - Muntada,9.5,49.08,131,22,12,0,6
+North-East,Bari,Gardo,Juurile,10,49,58,48,3,1,3
+North-East,Bari,Gardo,Dalwayn,10,49,112,98,3,1,8
+North-East,Bari,Gardo,Gud- ad,9.75,49.19646,26,35,1,3,3
+North-East,Bari,Gardo,Horsed,9.74,49.55,57,44,1,5,4
+North-East,Bari,Gardo,Hodman,9.74584,49.55,25,40,1,2,2
+North-East,Bari,Gardo,G/ Libah,9.74,49.55,201,172,11,3,7
+North-East,Bari,Gardo,Al-Azhar,9.74,49.55,143,453,17,0,8
+North-East,Bari,Gardo,Eley,9.793,49.1595,21,11,2,0,1
+North-East,Bari,Gardo,Ardi sone,9.53,49.22,31,14,4,0,2
+North-East,Bari,Gardo,Habal - reer,9.8,49.3,21,11,2,1,2
+North-East,Bari,Gardo,Upper Ambar,9.67,49.48,40,26,3,0,3
+North-East,Bari,Gardo,National,9.74,49.55,238,110,4,2,5
+North-East,Bari,Gardo,Geelhoor,9.74,49.55,75,58,4,0,3
+North-East,Bari,Gardo,Kubo,9.74,49.55,90,71,4,2,4
+North-East,Bari,Gardo,Imam Nawawi Qardo,9.506,49.8,145,97,9,0,6
+North-East,Bari,Gardo,Al -Hanan Orphanages,9.506,49.08,163,115,12,1,9
+North-East,Bari,Gardo,Haji Aden,9.5,49.08,173,152,10,3,8
+North-East,Bari,Gardo,Al- Mustagbal,9.745,49.55,120,135,6,1,6
+North-East,Bari,Gardo,Al-Imama Shafici,9.754,49.55,49,52,3,1,3
+North-East,Bari,Gardo,Garwado,9.745,49.55,17,25,1,2,2
+North-East,Bari,Gardo,Al - Iman,9.745,49.55,28,27,3,0,2
+North-East,Bari,Iskushban,Gargore,10.49,50.69333,23,11,2,0,1
+North-East,Bari,Iskushban,Xiriiro,9.97,50.25,86,36,4,0,4
+North-East,Bari,Iskushban,Meladen,10.434,49.8,18,17,3,0,3
+North-East,Bari,Iskushban,Iskushuban,10.28,50.22,40,21,4,5,5
+North-East,Bari,Iskushban,Xandha,10.65,51.13,34,8,2,0,1
+North-East,Bari,Iskushban,Hurdiye,10.56,51.133,48,21,1,2,4
+North-East,Bari,Iskushban,Dudhoyo,9.885,49.94,27,35,2,2,4
+North-East,Bari,Iskushban,Hafun,10.42,51.26,53,18,2,1,4
+North-East,Bari,Iskushban,Timirshe,10.56,50.42,34,20,2,2,4
+North-East,Bari,Iskushban,Rako,9.78,49.72,68,43,4,1,5
+North-East,Bari,Ufeyne,Ufain,10.65,50,245,122,13,1,16
+North-East,Bari,Ufeyne,Tasjiic,10.865,49.45667,97,65,4,0,4
+North-East,Mudug,Galkaiyo,Yamayska,6.76924,47.43061,148,125,7,4,6
+North-East,Mudug,Galkaiyo,Galkaio,6.76924,47,0,487,7,10,14
+North-East,Mudug,Galkaiyo,Imaamu Shafici,6.76,47.43,153,108,9,0,8
+North-East,Mudug,Galkaiyo,Beoler,7,47,77,45,5,0,5
+North-East,Mudug,Galkaiyo,Baira,7,47,43,29,2,0,3
+North-East,Mudug,Galkaiyo,I/Nawawi Branch 3,7,47.5,176,93,6,0,7
+North-East,Mudug,Galkaiyo,B/Wein,7,48,107,46,3,1,4
+North-East,Mudug,Galkaiyo,I - Nawawi,6.7,47.43,80,8,4,0,5
+North-East,Mudug,Galkaiyo,Salama,6.76,47.43,198,101,8,0,9
+North-East,Mudug,Galkaiyo,Orphanage,6.7,47.4,243,0,6,0,6
+North-East,Mudug,Galkaiyo,Imaam Nawawi,6.76,47.43,382,290,20,2,13
+North-East,Mudug,Galkaiyo,Ummadda,6.76,47.43,748,312,14,1,18
+North-East,Mudug,Galkaiyo,Allahi Ibnu - Abas,6.76,47.43,461,207,17,1,16
+North-East,Mudug,Galkaiyo,Abdulahi Isse,6.76,47.43,86,99,5,0,5
+North-East,Mudug,Goldogob,Col. Ciro,7,47,277,129,6,0,9
+North-East,Mudug,Goldogob,Bursalah,7.17,47.24,68,58,2,2,4
+North-East,Mudug,Goldogob,Goldogob,7,47,123,49,9,0,7
+North-East,Mudug,Goldogob,Imaam Nawawi,6.76,47.43061,75,58,5,1,5
+North-East,Mudug,Goldogob,Ein Shams,6.7,47,143,67,9,1,9
+North-East,Mudug,Jariiban,Jariiban,7.21308,48.853,107,97,7,0,7
+North-East,Mudug,Jariiban,Garacad,6.94326,49.3265,31,23,2,0,3
+North-East,Nugal,Dangoroyo,Xaasi Kheur,8.99,49,66,23,3,1,2
+North-East,Nugal,Dangoroyo,Ceel-buli,8.56194,49,66,34,3,2,3
+North-East,Nugal,Dangoroyo,Baq Baq,7.82861,49.48833,75,31,4,1,3
+North-East,Nugal,Dangoroyo,Uusgure,8.8,49.71997,80,33,3,1,3
+North-East,Nugal,Burtinle,Jalam,7.87,48.04,116,54,4,3,8
+North-East,Nugal,Burtinle,Nasteh Women Center,7.64727,47.83679,0,203,0,15,8
+North-East,Nugal,Burtinle,Al - Muntada,7.87,48.04326,48,8,5,0,3
+North-East,Nugal,Burtinle,Burtinle,7.647,47.83679,233,94,12,0,8
+North-East,Nugal,Eyl,Dhegenle,7.8,49.4,45,34,2,1,3
+North-East,Nugal,Eyl,Godob,7.66,49.52,28,18,2,1,5
+North-East,Nugal,Eyl,H/ Bahalle,8.5,48.6,71,66,4,4,8
+North-East,Nugal,Eyl,Badey,7.97,49.8,74,53,3,1,4
+North-East,Nugal,Eyl,Qarxis,7.98,48.1,76,27,3,0,4
+North-East,Nugal,Eyl,Daawad,7.97,49.8,117,69,2,5,10
+North-East,Nugal,Garowe,Rebent,8,48.48,29,13,1,1,2
+North-East,Nugal,Garowe,Yombays,8.0175,49,84,64,4,2,6
+North-East,Nugal,Garowe,Awrulus,7.76667,47.99,19,14,1,0,5
+North-East,Nugal,Garowe,Waaberi,8,48,248,105,5,5,6
+North-East,Nugal,Garowe,Sinujif,8.53419,48.98689,60,51,3,0,6
+North-East,Nugal,Garowe,Darwiish,8.4,48.48,393,200,7,10,16
+North-East,Nugal,Garowe,Intermediate Garowe,8.4071,48.48,360,185,1,1,7
+North-East,Nugal,Garowe,Orphanage,8,48.4827,121,1,6,0,6
+North-East,Nugal,Garowe,Shekh Hamud,8.4071,48.4827,103,82,10,0,6
+North-East,Nugal,Garowe,Kaalo Women Centre,8.4071,48,0,300,0,8,8
+North-East,Nugal,Garowe,Kalabayr,8.4,48.48,68,55,5,0,7
+North-East,Nugal,Garowe,Al - Waxa,8.4,48,752,451,27,0,24
+Central-South,Bakool,Tieglo,Tieglo,4.018,44.51,292,256,16,4,4
+Central-South,Bakool,Tieglo,Bioley,3.93,44.42,140,55,10,1,7
+Central-South,Bakool,Tieglo,El-Garas,4.15,44.211,236,110,9,4,7
+Central-South,Bakool,Tieglo,Sheikh Abdi,4.018,44.512,102,43,7,0,5
+Central-South,Bakool,Tieglo,Qarimey,4.018,44.51,80,50,6,1,3
+Central-South,Bakool,Tieglo,Dawle - Weyne,4.05,44.39,100,35,6,1,3
+Central-South,Bakool,Tieglo,Gudo,4.1,44.35,236,112,7,0,5
+Central-South,Bakool,Tieglo,Anshur,3.91,44.34,125,45,7,1,4
+Central-South,Bakool,Tieglo,Abaqdhere,3.98,44.35,125,36,7,0,4
+Central-South,Bakool,El Barde,El - Berde,4.828,43.65,252,123,15,3,9
+Central-South,Bakool,El Barde,El- Meghet,4.91,44.4,64,32,3,0,2
+Central-South,Bakool,Hudur,Bulow Primary School,4.12303,43.89012,94,50,4,0,4
+Central-South,Bakool,Hudur,Doon Fuul Primary School,4.18253,43.99737,111,43,4,1,7
+Central-South,Bakool,Hudur,Doygaab Primary School,4,44.13665,99,52,3,3,4
+Central-South,Bakool,Hudur,M.N Shodoq Primary School,4.12303,43.89012,113,54,8,8,4
+Central-South,Bakool,Hudur,Garas Weyne Primary School,4.26576,43.48562,181,79,12,2,8
+Central-South,Bakool,Hudur,Lafaale Primary School,4.03757,43.87561,120,56,6,2,3
+Central-South,Bakool,Hudur,Yowkoyow Primary School,4.0222,44.1682,241,17,12,0,5
+Central-South,Bakool,Hudur,KorKoor Primary School,3.97431,44.08714,133,47,7,0,4
+Central-South,Bakool,Hudur,Moragabey Primary School,4.1771,43.6317,130,73,12,2,7
+Central-South,Bakool,Hudur,29 October Primary School Hoddur,4.12303,43.89012,217,193,16,6,9
+Central-South,Bakool,Hudur,Sarmaan Primary School,3.95649,44.00434,118,97,6,2,5
+Central-South,Bakool,Rab-Dure,Rabdurre,4.25,43.16,117,78,14,1,8
+Central-South,Bakool,Wajid,Wagid,3.8,43.24,192,135,5,4,7
+Central-South,Bakool,Wajid,Garsaley,3.999,43.232,75,50,7,0,4
+Central-South,Bakool,Wajid,Burcadey,4.066,43.24,138,60,7,0,3
+Central-South,Bakool,Wajid,Bur-Dhuhunle,4.05,43.24,141,68,10,1,6
+Central-South,Bakool,Yeed,Yeed,4.55,43.044,62,46,3,1,3
+Central-South,Bay,Baidoa,Kormare,2.99,43.35,88,55,4,2,7
+Central-South,Bay,Baidoa,Manas,2.89,43.46,100,20,8,1,3
+Central-South,Bay,Baidoa,Robay Gadud,2.78,43.3,179,53,5,0,5
+Central-South,Bay,Baidoa,Sabiyo,2.8,43.3,80,20,4,0,3
+Central-South,Bay,Baidoa,Salahudin,3.11,43.64,189,86,14,0,8
+Central-South,Bay,Baidoa,Baidoa Model,3.11,43.64,145,69,16,1,8
+Central-South,Bay,Baidoa,Roble,3.06,43.41,120,40,7,0,4
+Central-South,Bay,Baidoa,Dr. Ayub,3.11,43.646,119,58,8,4,5
+Central-South,Bay,Baidoa,Fathuhroman,3.11,43.64,121,44,9,0,4
+Central-South,Bay,Baidoa,Gorisane,2.9,43.4,140,47,9,0,5
+Central-South,Bay,Baidoa,6th June,3.11,43.64,91,30,10,2,4
+Central-South,Bay,Baidoa,Al-qalam,3.11,43.64,234,143,11,1,8
+Central-South,Bay,Baidoa,Alio Mumin,2.98,43.51,100,20,6,0,3
+Central-South,Bay,Baidoa,Alio Marayle,2.9,43.33,135,18,4,0,5
+Central-South,Bay,Bardale,Berdale,3.2,43.1,101,185,4,4,7
+Central-South,Bay,Bardale,Gorar,3.5,43.8,79,82,5,2,5
+Central-South,Bay,Bardale,Sheikh Hamud,3.214,43.1,125,92,5,1,4
+Central-South,Bay,Bardale,Toswein,3.1,43.2,229,87,8,0,8
+Central-South,Bay,Burhakaba,Amar Bin Yasir,2.8,44,193,47,12,0,9
+Central-South,Bay,Burhakaba,Al - Huneyn,2.8,44,108,20,6,1,5
+Central-South,Bay,Burhakaba,Bur-hakaba,2.8,44.08,488,211,15,5,10
+Central-South,Bay,Burhakaba,Bur - Heyb,2.8,44,105,5,9,1,4
+Central-South,Bay,Burhakaba,Goof,2.978,44.19,110,15,6,2,4
+Central-South,Bay,Burhakaba,Imam Shafici,2.8,44,191,114,8,0,7
+Central-South,Bay,Dinsor,Fathu - Rahman,2.4,42.97,229,84,10,0,8
+Central-South,Bay,Dinsor,Habibyal,2.3522,42.66,100,5,7,0,4
+Central-South,Bay,Dinsor,Howl - Wadag,2.4,42.97,76,35,8,4,6
+Central-South,Bay,Dinsor,Waberi,2,42.9,244,55,10,0,7
+Central-South,Bay,Dinsor,Yaqbaraway,1.9,43.1,188,52,8,2,3
+Central-South,Bay,Dinsor,Bulo - Gadud,2.1,42.67,91,25,5,2,4
+Central-South,Bay,Qansah Dere,Durey Emid,2.83366,42.9294,169,55,7,0,5
+Central-South,Bay,Qansah Dere,Fathurahman,2.87,43,148,60,12,1,7
+Central-South,Bay,Qansah Dere,Kansahdere,2.87,43,422,116,18,4,13
+Central-South,Bay,Qansah Dere,Koringbood,2.8,43,281,103,10,2,12
+Central-South,Bay,Qansah Dere,Sheikh Ibrahim,2.76,42.88,218,128,7,3,9
+Central-South,Galgadud,Abudwak,Alfajri Primary School,6.22159,46.37659,401,423,15,8,18
+Central-South,Galgadud,Adado,Godinlabe Primary School,5.8974,46.6317,80,55,5,3,4
+Central-South,Galgadud,Adado,Bahdo Primary School,5.78878,47.22586,115,47,5,0,4
+Central-South,Galgadud,Adado,Adado Primary School,6.13812,46.62551,124,112,12,0,6
+Central-South,Galgadud,Balanbale,Iqra Balan Bale Primary School,6,46,184,126,11,3,7
+Central-South,Galgadud,Dusa-Mareb,Adra Guriel Primary School,5.30909,45.87932,66,169,10,5,7
+Central-South,Galgadud,Dusa-Mareb,Gadon Primary School,5.68935,46.68071,98,70,5,1,5
+Central-South,Galgadud,Dusa-Mareb,H.M.A Liibaan Primary School,5.53594,46.38465,121,112,10,0,8
+Central-South,Galgadud,Dusa-Mareb,Mareergur Primary School,5.74902,46.50949,59,57,5,2,5
+Central-South,Galgadud,Dusa-Mareb,El-Dere Primary School,5.36729,46.1899,74,42,5,0,3
+Central-South,Galgadud,Dusa-Mareb,Alibile Primary School,5.53594,46.38465,198,250,11,4,12
+Central-South,Galgadud,El Dehr,Ali Yabal Primary School,3.97188,47.08439,129,13,7,0,4
+Central-South,Galgadud,El Dehr,Wahweyn Primary School,4.003,47.4982,153,58,6,1,8
+Central-South,Galgadud,El Dehr,El Der Primary School,3.84909,47.18031,139,180,14,3,12
+Central-South,Galgadud,El Dehr,Budbud Primary School,4.19267,46.47416,89,39,6,1,4
+Central-South,Galgadud,El-Buur,El Bur Primary School,4.68441,46.6139,99,83,7,2,6
+Central-South,Galgadud,El-Buur,Al Nur Primary School,4.68441,46.61739,114,113,12,0,8
+Central-South,Galgadud,El-Buur,Al Bakra Primary School,5,46.61739,89,89,7,2,6
+Central-South,Galgadud,El-Buur,Dafed Primary School,4.6306,46.7709,33,35,3,0,3
+Central-South,Galgadud,El-Buur,Deri Primary School,4.3258,46.61406,85,80,7,0,7
+Central-South,Galgadud,El-Buur,El Kohle Primary School,4.84886,46.52099,85,71,4,0,5
+Central-South,Galgadud,El-Buur,Ja'ar Primary School,4.41664,46.8837,67,83,4,0,5
+Central-South,Galgadud,El-Buur,Wabho Primary School,4.51374,46.28289,116,123,8,0,7
+Central-South,Galgadud,Gal-Hareri,Omar Binulkhidaab Primary School,4.53037,47.14533,129,144,10,0,8
+Central-South,Galgadud,Gal-Hareri,Garabla Primary School,4.67611,47.16232,95,74,3,1,4
+Central-South,Gedo,Dolo,Dolo,4.16423,42,91,82,6,1,8
+Central-South,Gedo,Dolo,Ged/Wayne,4.0293,42.02942,89,22,2,1,4
+Central-South,Gedo,Bardera,Anole Primary School,2.01512,42.31422,27,19,2,1,2
+Central-South,Gedo,Bardera,Bardere Primary School,2.33966,42.28502,356,276,12,4,14
+Central-South,Gedo,Bardera,Bulsho Primary School,2.33966,42.28502,134,96,7,2,7
+Central-South,Gedo,Bardera,Dr. Kassim Primary School,2.33966,42.28502,172,159,7,5,7
+Central-South,Gedo,Bardera,Iftin Primary School,2.20526,41.62433,115,50,5,0,4
+Central-South,Gedo,Bardera,Kurman Primary School,2.33966,42.28502,71,35,4,3,3
+Central-South,Gedo,Bardera,Mardha Primary School,2.4029,42.3309,90,60,5,1,4
+Central-South,Gedo,Bardera,Sarinley Primary School,2,42.28088,120,90,6,1,5
+Central-South,Gedo,Bardera,Sheikh Abdiyo Primary School,2.33966,42.28502,119,107,11,2,7
+Central-South,Gedo,Belet Hawa,Malka Hare,3.9794,41.9323,53,23,2,0,4
+Central-South,Gedo,Belet Hawa,Khalid,3.78074,41.89431,162,141,10,2,5
+Central-South,Gedo,Belet Hawa,B/Hawo,3.78074,41.89431,131,94,16,5,14
+Central-South,Gedo,Burdubo,Burdubo Primary School,3.1728,42.50181,102,119,9,0,6
+Central-South,Gedo,El Waq,El-Wak Primary School,2.78797,40.99829,237,158,16,1,10
+Central-South,Gedo,Garba Hare,Bura Primary School,3.17188,42.13948,55,27,3,0,4
+Central-South,Gedo,Garba Hare,El-Ade Primary School,3.03672,41.86778,169,87,18,0,7
+Central-South,Gedo,Garba Hare,El Gadud Primary School,3.0798,42.6,93,93,9,0,5
+Central-South,Gedo,Garba Hare,Gorboharrey Primary School,3,42.21988,245,145,15,1,11
+Central-South,Gedo,Garba Hare,Golgol Primary School,3,42.21988,36,33,2,0,2
+Central-South,Gedo,Garba Hare,T/Barwaqo,3.48314,42.4683,108,87,5,1,8
+Central-South,Gedo,Luuq,Ganane,3.79999,42.54459,57,45,4,0,3
+Central-South,Gedo,Luuq,Yurkud,3.52038,42.76914,131,64,5,0,5
+Central-South,Gedo,Luuq,Salaam,3.7999,42.54459,70,45,3,1,3
+Central-South,Hiran,Mataban,Mataban Primary School,5.19937,45.52284,62,56,3,2,4
+Central-South,Hiran,Belet-Weyn,Doloyaben Primary School,4.41995,45.32749,122,48,6,0,5
+Central-South,Hiran,Belet-Weyn,Nurfanar Primary School,4.40555,45.39156,230,105,10,0,10
+Central-South,Hiran,Belet-Weyn,Bundo Wein Primary School,4.73671,45.2062,100,65,4,2,5
+Central-South,Hiran,Belet-Weyn,Hiran (A) Primary School,4.83016,45.21662,130,133,8,0,7
+Central-South,Hiran,Belet-Weyn,Tawakal Primary School,4.50569,45.28802,118,125,6,0,5
+Central-South,Hiran,Belet-Weyn,Balad Weine Primary and Secondary School,4.73671,45.2062,287,119,11,0,11
+Central-South,Hiran,Belet-Weyn,Caqiboy Primary School,4.26266,45.39108,225,49,8,0,6
+Central-South,Hiran,Belet-Weyn,Alolaiad Primary School,4.65475,45.20376,109,101,8,1,5
+Central-South,Hiran,Belet-Weyn,Sigalow B Primary School,4.75697,45.18797,92,88,8,2,6
+Central-South,Hiran,Belet-Weyn,Qoydo Primary School,5,45,126,58,9,0,5
+Central-South,Hiran,Belet-Weyn,Al-Mamun Primary School,4.73671,45.2062,226,158,10,3,9
+Central-South,Hiran,Belet-Weyn,Tr Jante Primary School,4,45,203,99,6,1,7
+Central-South,Hiran,Belet-Weyn,Sigaalow A Primary School,4.75697,45,71,36,7,1,3
+Central-South,Hiran,Belet-Weyn,Al Imra Primary School,4.73671,45.2062,164,122,7,3,7
+Central-South,Hiran,Belet-Weyn,Al Aqsa Primary School,4.73671,45.2,387,78,13,0,13
+Central-South,Hiran,Belet-Weyn,Omar Binu Khadab Primary School,5,45,216,117,11,0,9
+Central-South,Hiran,Belet-Weyn,Sheikh Mohamed Ma'alin Primary School,4.73,45.2,267,123,15,0,10
+Central-South,Hiran,Belet-Weyn,Majmac Duba Primary School,4.7361,45.2062,924,659,16,0,27
+Central-South,Hiran,Belet-Weyn,Barhano Primary School,4.5,45.34,195,129,9,0,8
+Central-South,Hiran,Belet-Weyn,Gahaya Primary School,4.7,45.2,130,112,8,2,8
+Central-South,Hiran,Belet-Weyn,Ugas Khalif Primary School,4.7,45.2,98,0,7,0,6
+Central-South,Hiran,Belet-Weyn,Barey Primary School,4.54938,45.27831,214,72,11,0,6
+Central-South,Hiran,Belet-Weyn,Ma'an Qale Primary School,4.5775,45.24085,78,50,6,0,3
+Central-South,Hiran,Belet-Weyn,El-Ali School,4.19498,44.98773,200,153,7,0,7
+Central-South,Hiran,Belet-Weyn,Buq-Gosar Primary School,4.51383,44.81709,122,72,6,1,5
+Central-South,Hiran,Belet-Weyn,Osman Binu Cafan Primary School,4.73671,45.2062,295,85,11,0,9
+Central-South,Hiran,Bulo Burti,Moalin Isse Primary School,3.85357,45.56596,261,175,4,1,9
+Central-South,Hiran,Bulo Burti,Bulay Primary School,3.85357,45.56597,74,43,7,1,5
+Central-South,Hiran,Bulo Burti,Ahmed Gurey Lower and Upper Primary,3.85357,45.56596,174,113,14,0,9
+Central-South,Hiran,Jalalaqsi,Mubarak Primary School,3.37951,45.59941,170,48,6,0,6
+Central-South,Hiran,Jalalaqsi,Jalalaqsi Primary School,3.37951,45.59941,141,99,5,0,6
+Central-South,Hiran,Jalalaqsi,Islaw-Abuka Primary School,3.59811,45.55727,37,10,3,0,2
+Central-South,Hiran,Jalalaqsi,Nashrullah Primary School,3.37951,45.59941,59,48,3,0,4
+Central-South,Hiran,Mahas,Moqakori Primary School,4.06068,46.13221,89,31,5,0,3
+Central-South,Hiran,Mahas,Mahas Primary School,3.83518,46.2342,116,94,5,0,5
+Central-South,Lower Juba,Afmadou,Hayo Primary School,0.43422,41.81446,97,70,3,1,3
+Central-South,Lower Juba,Afmadou,Al - Hudda Primary School,0.51486,42.07301,124,124,10,2,6
+Central-South,Lower Juba,Afmadou,Qoqani Primary School,0.28189,41.71361,130,111,5,1,4
+Central-South,Lower Juba,Afmadou,Aden Geddi Primary School,0.87003,41.97531,369,258,10,2,11
+Central-South,Lower Juba,Badhadhe,Wadajir Primary School,1,41.665,68,34,4,0,3
+Central-South,Lower Juba,Badhadhe,Badhaadhe Primary School,-1.03537,41.50047,127,85,15,3,6
+Central-South,Lower Juba,Badhadhe,Hoosingow Primary School,-0.17382,41.27012,106,51,8,0,5
+Central-South,Lower Juba,Badhadhe,Kulbiyow Primary Schoool,-1.1327,41.22177,75,35,5,0,3
+Central-South,Lower Juba,Jamame,Bardhere Primary School,0.29069,42.74185,80,21,5,0,2
+Central-South,Lower Juba,Jamame,Mogambo Primary School,0.15619,42.71765,95,28,7,0,5
+Central-South,Lower Juba,Jamame,Arare Primary School,0.0289,42.6821,88,50,4,0,3
+Central-South,Lower Juba,Jamame,Makalango Primary School,0.25429,42.75822,134,32,5,0,4
+Central-South,Lower Juba,Jamame,Beled - Rahma Primary School,0.07806,42.71225,107,13,5,1,4
+Central-South,Lower Juba,Jamame,Sabatuni Primary School,0.22323,42.77542,70,45,6,0,4
+Central-South,Lower Juba,Jamame,Moffi Primary School,0.16415,42.75129,91,44,6,0,4
+Central-South,Lower Juba,Jamame,Mashaqo Primary School,0.19575,42.74764,140,52,6,0,5
+Central-South,Lower Juba,Jamame,Wadajir Primary School,0.17192,42.75365,72,20,4,0,4
+Central-South,Lower Juba,Jamame,Miguwa Primary School,0.22178,42.76012,95,25,5,0,4
+Central-South,Lower Juba,Jamame,Beled Amin Primary School,0.19529,42.77055,137,36,5,1,4
+Central-South,Lower Juba,Jamame,Kamsuma Primary School,0.24935,42.77512,81,62,4,1,4
+Central-South,Lower Juba,Jamame,Ramadan Primary School,0.24935,42.77512,142,111,4,1,6
+Central-South,Lower Juba,Jamame,Deema Primary School,-0.01946,42.76579,128,108,7,0,5
+Central-South,Lower Juba,Jamame,Osman Binu Afan Primary School,0.06916,42.7382,139,68,9,4,6
+Central-South,Lower Juba,Jamame,Jubba Primary School,0.06916,42.7382,80,74,5,1,4
+Central-South,Lower Juba,Jamame,Gobanimo Primary School,-0.03503,42.63977,44,11,3,0,2
+Central-South,Lower Juba,Jamame,Fatah Primary School,0.06916,42.7382,196,202,10,3,11
+Central-South,Lower Juba,Jamame,Burgan Primary School,0.25357,42.83449,70,26,4,0,3
+Central-South,Lower Juba,Jamame,Bander Jadid Primary School,-0.01289,42.60922,106,79,7,0,5
+Central-South,Lower Juba,Jamame,Nafta - Quur Primary School,0.02687,42.75004,120,110,6,2,7
+Central-South,Lower Juba,Jamame,Bengeni Primary School,0.3911,42.72636,96,105,8,0,6
+Central-South,Lower Juba,Jamame,Honqare Primary School,0.01239,42.79458,62,45,3,2,3
+Central-South,Lower Juba,Jamame,Malaley Primary School,0.00182,42.66156,76,20,5,1,3
+Central-South,Lower Juba,Jamame,Yiley Primary School,-0.5017,42.67581,132,32,7,0,5
+Central-South,Lower Juba,Kismaiyo,Upper Hill Primary School (Dalcada),0.36029,42.54626,92,76,4,0,3
+Central-South,Lower Juba,Kismaiyo,S. W. O Primary School,0.36202,42.54626,93,75,4,4,5
+Central-South,Lower Juba,Kismaiyo,Ibnu Mascuud Primary School,-0.36029,42.54626,159,102,13,2,7
+Central-South,Lower Juba,Kismaiyo,Al Hudaa Primary School,-0.36202,42.54626,70,45,9,0,4
+Central-South,Lower Juba,Kismaiyo,Jubba Primary School,-0.36202,42.54626,471,92,18,0,9
+Central-South,Lower Juba,Kismaiyo,Faanoole Primary School,-0.36029,42.54626,526,259,11,1,13
+Central-South,Lower Juba,Kismaiyo,Horseed Primary School,-0.36029,42.54626,40,54,6,0,3
+Central-South,Lower Juba,Kismaiyo,Gobweyn Primary School,-0.24808,42.60119,65,65,7,1,6
+Central-South,Lower Juba,Kismaiyo,Waamo Primary School,-0.36029,42.54626,30,30,6,2,4
+Central-South,Lower Juba,Kismaiyo,Al-Irshaad Primary School,-0.36209,42.54626,139,131,6,2,5
+Central-South,Lower Juba,Kismaiyo,Ahmed Bin Hanbal Primary School,-0.36029,42.54629,304,251,12,3,12
+Central-South,Lower Shabelle,Afgoye,Baqdad Primary School,2.27038,45.22364,49,31,5,0,4
+Central-South,Lower Shabelle,Afgoye,Afgoi Girls Orphanage Primary School,2.14158,45.1187,58,222,7,5,6
+Central-South,Lower Shabelle,Afgoye,Marerei Primary School,2.13574,45.05893,99,61,5,0,5
+Central-South,Lower Shabelle,Afgoye,Al-Qasimi Primary School,2.14158,45.1187,71,32,5,0,4
+Central-South,Lower Shabelle,Afgoye,Shabelle Primary School,2.14158,45.1187,172,51,9,0,6
+Central-South,Lower Shabelle,Afgoye,Abu-Bakar Siddig Primary School,2.14158,45.1187,326,117,14,6,17
+Central-South,Lower Shabelle,Afgoye,Ibnu Abbas Primary School,2.14158,45.1187,109,69,8,0,8
+Central-South,Lower Shabelle,Afgoye,Abow Magow Primary School,2.2202,45.09838,36,26,5,0,2
+Central-South,Lower Shabelle,Afgoye,Lafole Compound Primary school,2.0787,45.1718,113,39,8,0,7
+Central-South,Lower Shabelle,Afgoye,Abu-Musa Al-Ashcari Primary School,2.14158,45.1187,128,77,7,0,8
+Central-South,Lower Shabelle,Afgoye,Ala Yasir Primary School,2.14154,45.1187,279,94,9,0,9
+Central-South,Lower Shabelle,Afgoye,Isra Primary School,2.14154,45.1187,210,63,11,0,9
+Central-South,Lower Shabelle,Awdheegle,Mubarak,1.91705,44.77,177,75,9,1,9
+Central-South,Lower Shabelle,Awdheegle,Daru-salam,1.922,44.78,211,120,11,1,10
+Central-South,Lower Shabelle,Awdheegle,Aw - Dhegle,1.97,44.83,150,63,16,1,7
+Central-South,Lower Shabelle,Awdheegle,Barirre,2,44.89,108,48,7,1,4
+Central-South,Lower Shabelle,Barawe,Cali Bin Abii Daalib Primary School,1.11477,44.03043,47,10,5,0,4
+Central-South,Lower Shabelle,Kurtun Warrey,Mukuy Dumis Primary School,1.5985,44.43,115,52,2,1,5
+Central-South,Lower Shabelle,Marka,New way's,1.7156,44.7699,74,51,2,3,4
+Central-South,Lower Shabelle,Marka,J.M Barrow,1.7156,44.76,121,109,5,3,7
+Central-South,Lower Shabelle,Marka,Sheik Abrone,1.71567,44.7699,93,59,6,0,5
+Central-South,Lower Shabelle,Marka,Badru - Diin,1.71,44.76,35,36,2,1,3
+Central-South,Lower Shabelle,Marka,Alla - Magan,1.71567,44.7699,282,223,12,3,14
+Central-South,Lower Shabelle,Marka,Obosivo,1.71567,44.7699,94,91,8,8,6
+Central-South,Lower Shabelle,Marka,Sheikh Ali Maye,1.71,44.76,295,182,12,0,9
+Central-South,Lower Shabelle,Marka,Al - Aman,1.71,44.76,108,136,6,3,8
+Central-South,Lower Shabelle,Marka,Imam Al- Bukhari Ophanage,1.71,44.76,200,0,8,0,8
+Central-South,Lower Shabelle,Marka,Sh. Abdi Dhere,1.65,44.57,108,70,6,1,6
+Central-South,Lower Shabelle,Marka,Ayub Orphanage,1.7,44.7,29,22,0,6,3
+Central-South,Lower Shabelle,Marka,Malable,1.84,44.7,104,51,9,1,7
+Central-South,Lower Shabelle,Marka,Ugunji,1.8,44.72,143,72,8,2,8
+Central-South,Lower Shabelle,Marka,Jilib - Marka,1.8,44.916,100,52,4,2,6
+Central-South,Lower Shabelle,Marka,Gendershe,1.8,44.9,36,38,2,0,3
+Central-South,Lower Shabelle,Marka,Deg-Wariiri,1.8,44.68,69,30,4,0,4
+Central-South,Lower Shabelle,Marka,Sigale,1.85131,44.70168,113,52,7,1,7
+Central-South,Lower Shabelle,Marka,El-Waregow,1.8,44.799,37,54,2,1,3
+Central-South,Lower Shabelle,Marka,Ambanane,1.8,44.7,41,48,3,0,3
+Central-South,Lower Shabelle,Marka,Buufow,1.7,44.7,36,35,3,0,3
+Central-South,Lower Shabelle,Marka,Madulow,1.7,44.55,46,27,3,0,3
+Central-South,Lower Shabelle,Marka,Golweyn,1.65,44.5,309,158,11,1,12
+Central-South,Lower Shabelle,Marka,Borow,1.8,44.7,76,42,2,0,6
+Central-South,Lower Shabelle,Marka,Al - Ansar,1.71,44.76,497,315,12,8,19
+Central-South,Lower Shabelle,Marka,Al - Rahman,1.71,44.76,334,202,16,4,19
+Central-South,Lower Shabelle,Marka,Shalambod,1.7,44.69499,146,145,10,4,12
+Central-South,Lower Shabelle,Marka,Waagdaadi,1.7,44.64,127,75,6,3,8
+Central-South,Lower Shabelle,Marka,Mushani,1.77,44.6566,227,119,11,0,12
+Central-South,Lower Shabelle,Marka,Sagaaroole,1.8,44.77,37,72,2,0,3
+Central-South,Lower Shabelle,Marka,Adimole,1.8,44.65,59,37,5,1,5
+Central-South,Lower Shabelle,Marka,Gandaawe,1.72,44.7,63,74,5,1,6
+Central-South,Lower Shabelle,Marka,Kay toy,1.78,44.67,30,17,2,1,3
+Central-South,Lower Shabelle,Marka,Muungiye Primary School,1.60907,44.62074,56,34,4,0,4
+Central-South,Lower Shabelle,Marka,Jannale Primary School,1.80743,44.69089,178,88,7,2,8
+Central-South,Lower Shabelle,Marka,Majabto Primary School,1.78251,44.63279,33,26,2,2,3
+Central-South,Lower Shabelle,Marka,Tawakal Primary School,1.79698,44.62099,68,21,5,1,3
+Central-South,Lower Shabelle,Qoryoley,Sh. Axmed Faqi primary School,1.84951,44.68415,160,41,6,0,6
+Central-South,Lower Shabelle,Sablale,Sablaale Primary School,1.30517,43.88903,148,76,10,2,6
+Central-South,Lower Shabelle,Wanle Weyne,Imamu - Nawawi Primary School,2.61945,44.89357,121,47,6,0,5
+Central-South,Lower Shabelle,Wanle Weyne,Wanle Weine Primary School,2.61945,44.89357,260,101,10,3,10
+Central-South,Middle Juba,Jilib,Kalanje Primary School,0.37135,42.73963,94,31,5,0,4
+Central-South,Middle Juba,Jilib,Mareerey Primary School,0.42943,42.7154,203,112,7,1,7
+Central-South,Middle Juba,Jilib,Buulo Balley Primary School,0.60948,42.74723,282,112,6,1,8
+Central-South,Middle Juba,Jilib,Bander Salaama Primary School,0.36388,42.77064,57,65,5,0,5
+Central-South,Middle Juba,Jilib,Homboy Primary School,0.39788,42.86668,195,68,8,1,4
+Central-South,Middle Juba,Jilib,Abdala Kakane Primary School,0.52403,42.75359,103,64,6,1,5
+Central-South,Middle Juba,Jilib,Osboley Primary School,0.53666,42.74954,88,49,7,0,5
+Central-South,Middle Juba,Jilib,Sheik Noor (1) Primary School,0.49345,42.7702,277,136,12,3,8
+Central-South,Middle Juba,Jilib,Osman Mote Primary School,0.69469,42.69456,131,62,7,1,5
+Central-South,Middle Juba,Jilib,Wagade Primary School,0.68395,42.40706,141,64,8,0,3
+Central-South,Middle Juba,Jilib,Mubaarak Primary School,0.42552,42.72734,135,67,9,1,6
+Central-South,Middle Juba,Jilib,Sheik Noor (2) Primary School,0.49345,42.7702,201,84,8,1,6
+Central-South,Middle Juba,Jilib,Manyagabo Primary School,0.50685,42.76448,88,68,8,1,5
+Central-South,Middle Juba,Jilib,B/Rahma primary School,0.49547,42.75757,145,72,9,0,6
+Central-South,Middle Juba,Jilib,Madhoke Limole Primary School,0.54895,42.76406,82,31,8,1,4
+Central-South,Middle Juba,Jilib,B/Kariim Primary School,0.54448,42.73956,93,66,5,1,4
+Central-South,Middle Juba,Jilib,Hargeesa Yerey Primary School,0.4473,42.70346,182,71,9,1,6
+Central-South,Middle Juba,Sakow,Nebsoy Primary School,1.74871,42.50629,60,25,2,0,2
+Central-South,Middle Juba,Sakow,Nusdunia Primary School,1.62255,42.42742,115,51,5,0,4
+Central-South,Middle Juba,Sakow,Gurmeysa Primary School,1.69039,42.40564,90,44,2,0,4
+Central-South,Middle Juba,Sakow,Towfiq Primary School,1.63938,42.45217,148,58,6,0,4
+Central-South,Middle Juba,Sakow,Basra Primary School,1.68813,42.34105,63,38,4,0,3
+Central-South,Middle Juba,Sakow,Qeyt-Ajubo Primary School,1.67924,42.5224,76,54,2,1,3
+Central-South,Middle Juba,Sakow,Sakow Primary School,1.63938,42.45217,236,116,14,5,9
+Central-South,Middle Juba,Sakow,Salagle Primary School,1.81187,42.29569,100,61,10,0,6
+Central-South,Middle Juba,Sakow,Qaboobe Primary School,1.54715,42.44968,59,21,2,0,2
+Central-South,Middle Juba,Sakow,Birbiriso Primary School,1.67216,42.42952,72,23,2,0,2
+Central-South,Middle Shabelle,Adaale,Adale Primary School,2.75925,46.32271,49,25,6,0,6
+Central-South,Middle Shabelle,Aden Yabal,Sh. Ahmed Siyaar Primary School,3.7776,46.24544,93,55,6,2,5
+Central-South,Middle Shabelle,Aden Yabal,Aden Yabal Primary School,3.7776,46.24544,150,139,5,2,11
+Central-South,Middle Shabelle,Bal'ad,Gololey Primary School,2.44913,45.35442,46,52,3,1,3
+Central-South,Middle Shabelle,Bal'ad,Qalimow Primary School,2.58951,45.37009,29,50,4,1,4
+Central-South,Middle Shabelle,Bal'ad,Imaamu Nawawi Primary School,2.35991,45.38705,112,66,12,1,4
+Central-South,Middle Shabelle,Bal'ad,Evergreen Primary School,2.35991,45.38705,118,160,10,2,8
+Central-South,Middle Shabelle,Jowhar,Kulmis Primary School,2.7806,45.50038,153,101,8,1,7
+Central-South,Middle Shabelle,Jowhar,Buula - Baleey Primary School,2.7806,45.50038,122,85,9,3,7
+Central-South,Middle Shabelle,Jowhar,Sheikh Hassan Barsane Primary School,2.7806,45.50038,239,102,11,0,10
+Central-South,Middle Shabelle,Jowhar,Biyo Ade Primary School,2.93558,45.79131,94,100,5,2,4
+Central-South,Middle Shabelle,Jowhar,Maria Luneti Primary School,2.7806,45.50038,170,68,9,2,9
+Central-South,Middle Shabelle,Jowhar,Horseed Primary School,2.7806,45.50038,101,101,9,1,9
+Central-South,Middle Shabelle,Jowhar,Sheikh Husein Adde Primary School,2.7806,45.50038,307,106,9,0,8
+Central-South,Middle Shabelle,Jowhar,Moyko Primary School,2.7599,45.49735,100,41,5,0,5
+Central-South,Middle Shabelle,Mahaday,Mahaday Primary School,2.97552,45.53355,136,137,6,2,6
+Central-South,Middle Shabelle,Warsheikh,Hirabe Primary School,2.29667,45.79556,55,82,3,1,7
